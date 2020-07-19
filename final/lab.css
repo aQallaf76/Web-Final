@@ -1,0 +1,391 @@
+.card1 {
+    display: grid;
+    grid-template-columns: 300px;
+    grid-template-rows: 210px 210px 80px;
+    grid-template-areas: "image" "text" "stats";
+  
+     border-radius: 18px;
+    background: white;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
+    font-family: roboto;
+    text-align: center; 
+  }
+
+  
+  
+
+  .card1-image {
+    grid-area: image;
+    background: url("./img/kfas.png");
+   background-position: center;
+    background-repeat: no-repeat;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-size: 290px;
+  }
+
+
+  .card1-text {
+    grid-area: text;
+    margin: 25px;
+  }
+  .card1-text .date {
+    color: #f77f00;
+    font-size:13px;
+  }
+  .card1-text p {
+    color: grey;
+    font-size:15px;
+    font-weight: 300;
+  }
+  .card1-text h2 {
+    margin-top:0px;
+    font-size:28px;
+  }
+
+
+  .card1-stats {
+    grid-area: stats; 
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+  
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background: #f77f00;
+  }
+
+
+  .card1-stats .stat {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  
+    color: white;
+    padding:10px;
+  }
+
+.card1-stats .type {
+  font-size: 11px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+.card1-stats .value {
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.card1-stats .border {
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+
+  .card1:hover {
+    transform: scale(1.15);
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
+  }
+  .card1 {
+  
+ 
+    transition: 0.5s ease;
+    cursor: pointer;
+    margin:30px;
+  }
+
+
+
+  /* Coded */
+
+  .card2 {
+    display: grid;
+    grid-template-columns: 300px;
+    grid-template-rows: 210px 210px 80px;
+    grid-template-areas: "image" "text" "stats";
+  
+     border-radius: 18px;
+    background: white;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
+    font-family: roboto;
+    text-align: center; 
+  }
+
+  
+  
+
+  .card2-image {
+    grid-area: image;
+    background: url("./img/coded1.png");
+   background-position: center;
+    background-repeat: no-repeat;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-size: cover;
+  }
+
+
+  .card2-text {
+    grid-area: text;
+    margin: 25px;
+  }
+  .card2-text .date {
+    color: #540d6e;
+    font-size:13px;
+  }
+  .card2-text p {
+    color: grey;
+    font-size:15px;
+    font-weight: 300;
+  }
+  .card2-text h2 {
+    margin-top:0px;
+    font-size:28px;
+  }
+
+
+  .card2-stats {
+    grid-area: stats; 
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+  
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background: #540d6e;
+  }
+
+
+  .card2-stats .stat {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  
+    color: white;
+    padding:10px;
+  }
+
+.card2-stats .type {
+  font-size: 11px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+.card2-stats .value {
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.card2-stats .border {
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+
+  .card2:hover {
+    transform: scale(1.15);
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
+  }
+  .card2 {
+  
+ 
+    transition: 0.5s ease;
+    cursor: pointer;
+    margin:30px;
+  }
+
+  /* KW UNI */
+
+  .card3 {
+    display: grid;
+    grid-template-columns: 300px;
+    grid-template-rows: 210px 210px 80px;
+    grid-template-areas: "image" "text" "stats";
+  
+     border-radius: 18px;
+    background: white;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
+    font-family: roboto;
+    text-align: center; 
+  }
+
+  
+  
+
+  .card3-image {
+    grid-area: image;
+    background: url("./img/download\ \(22\).jpg");
+   background-position: center;
+    background-repeat: no-repeat;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-size: 245px;
+  }
+
+
+  .card3-text {
+    grid-area: text;
+    margin: 25px;
+  }
+  .card3-text .date {
+    color: #3a86ff;
+    font-size:13px;
+  }
+  .card3-text p {
+    color: grey;
+    font-size:15px;
+    font-weight: 300;
+  }
+  .card3-text h2 {
+    margin-top:0px;
+    font-size:28px;
+  }
+
+
+  .card3-stats {
+    grid-area: stats; 
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+  
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background: #3a86ff;
+  }
+
+
+  .card3-stats .stat {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  
+    color: white;
+    padding:10px;
+  }
+
+.card3-stats .type {
+  font-size: 11px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+.card3-stats .value {
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.card3-stats .border {
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+
+  .card3:hover {
+    transform: scale(1.15);
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
+  }
+  .card3 {
+  
+ 
+    transition: 0.5s ease;
+    cursor: pointer;
+    margin:30px;
+  }
+
+  /* CSO */
+
+  .card4 {
+    display: grid;
+    grid-template-columns: 300px;
+    grid-template-rows: 210px 210px 80px;
+    grid-template-areas: "image" "text" "stats";
+  
+     border-radius: 18px;
+    background: white;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
+    font-family: roboto;
+    text-align: center; 
+  }
+
+  
+  
+
+  .card4-image {
+    grid-area: image;
+    background: url("./img/logo.cso.png");
+   background-position: center;
+    background-repeat: no-repeat;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-size: 230px;
+  }
+
+
+  .card4-text {
+    grid-area: text;
+    margin: 25px;
+  }
+  .card4-text .date {
+    color: black;
+    font-size:13px;
+  }
+  .card4-text p {
+    color: grey;
+    font-size:15px;
+    font-weight: 300;
+  }
+  .card4-text h2 {
+    margin-top:0px;
+    font-size:28px;
+  }
+
+
+  .card4-stats {
+    grid-area: stats; 
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+  
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background: wheat;
+  }
+
+
+  .card4-stats .stat {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  
+    color: white;
+    padding:10px;
+  }
+
+.card4-stats .type {
+  font-size: 11px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+.card4-stats .value {
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.card4-stats .border {
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+
+  .card4:hover {
+    transform: scale(1.15);
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
+  }
+  .card4 {
+  
+ 
+    transition: 0.5s ease;
+    cursor: pointer;
+    margin:30px;
+  }

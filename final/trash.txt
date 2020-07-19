@@ -1,0 +1,155 @@
+ <div class="container1">
+        <div class="row">
+            <div>
+                <img src="./img/kfas.png1.png" width="150px">
+
+                <h2>مؤسسة الكويت للتقدم العلمي</h2>
+                <p> ترعا مؤسسة الكويت للتقدم العلمي العديد من المشاريع التي تساهم في حل أو الحد من الأزمات أو المشاكل .
+                    <br>
+                    وأيضا ترعا العديد من البرامج التي تنمي مهارات الطلاب </p>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div>
+                <img src="./img/kwcodes.png" width="150px">
+
+                <h2>كودد - مبادرة الكويت تبرمج</h2>
+                <p>أول مبادرة في الكويت تسعى لتعليم طلاب المرحلة الثانوية البرمجة ، لخلق جيل مبرمج </p>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div>
+                <img src="./img/SACGC .png" width="150px">
+
+                <h2>مركز صباح الأحمد للموهبة و الابداع</h2>
+                <p>أحد مراكز مؤسسة الكويت للتقدم العلمي ، يهتم بالمبدعين و يصقل مهاراتهم من صغرهم </p>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div>
+                <img src="./img/download (22).jpg" width="150px">
+
+                <h2>جامعة الكويت</h2>
+                <p>احد أهم الصروح التعليمية في الكويت حيث انها أول جامعة في الكويت والخليج </p>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div>
+                <img src="./img/logo.cso.png" width="150px">
+
+                <h2>برنامج مدير العلوم التنفيذي</h2>
+                <p>برنامج تعليمي بدء في ولاية أريزونا الأمريكية و أستضافته مؤسسة الكويت للتقدم العلمي </p>
+            </div>
+        </div>
+    </div>
+
+    --------------------------------------------------------------------------------
+     <div class="card1">
+            <div class="card1-image"></div>
+            <div class="card1-text">
+                <span class="date">الداعم الأساسي</span>
+                <h2>مؤسسة الكويت للتقدم العلمي</h2>
+                <p> ترعا مؤسسة الكويت للتقدم العلمي العديد من المشاريع التي تساهم في حل أو الحد من الأزمات أو المشاكل .
+                    <br>
+                    وأيضا ترعا العديد من البرامج التي تنمي مهارات الطلاب </p>
+            </div>
+            <div class="card1-stats">
+                <div class="stat">
+                    <div class="value"><img src="./img/site.png" width="23px"></div>
+                    <div class="type"><a href="https://www.kfas.com/ar/">زر الموقع الالكتروني</a></div>
+                </div>
+                <div class="stat border">
+                    <div class="value"><img src="./img/instagram-sketched (1).png"></div>
+                    <div class="type"><a href="https://www.instagram.com/kfasinfo/">الانستقرام</a></div>
+                </div>
+                <div class="stat">
+                    <div class="value"><img src="./img/twitter.png" width="23px"></div>
+                    <div class="type"><a href="https://twitter.com/kfasinfo">تويتر</a></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card2">
+            <div class="card2-image"></div>
+            <div class="card2-text">
+                <span class="date">الداعم البرمجي</span>
+                <h2>أكاديمية كوديد</h2>
+                <p> أكاديمية كوديد للبرمجة ، هي أول أكاديمية للبرمجة في الشرق الأوسط حيث تضم أبرع و أمهر المبرمجين </p>
+            </div>
+            <div class="card2-stats">
+                <div class="stat">
+                    <div class="value"><img src="./img/site.png" width="23px"></div>
+                    <div class="type"><a href="https://www.joincoded.com/">زر الموقع الالكتروني</a></div>
+                </div>
+                <div class="stat border">
+                    <div class="value"><img src="./img/instagram-sketched (1).png"></div>
+                    <div class="type"><a href="https://www.instagram.com/joincoded/">الانستقرام</a></div>
+                </div>
+                <div class="stat">
+                    <div class="value"><img src="./img/twitter.png" width="23px"></div>
+                    <div class="type"><a href="https://twitter.com/joincoded">تويتر</a></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card3">
+            <div class="card3-image"></div>
+            <div class="card3-text">
+                <span class="date">الداعم الاستراتيجي</span>
+                <h2>جامعة الكويت</h2>
+                <p> تـأسـسـت جامعة الكويت في عام 1966 م ، في عهد الشيخ عبدالله السالم الصباح (رحمه الله )
+                    <br>
+                    تدعم جامعة الكويت جهودنا في التطوير و الابتكار في حل المشاكل </p>
+            </div>
+            <div class="card3-stats">
+                <div class="stat">
+                    <div class="value"><img src="./img/site.png" width="23px"></div>
+                    <div class="type"><a href="https://portal.ku.edu.kw/index.html" class="text-white">زر الموقع
+                            الالكتروني</a>
+                    </div>
+                </div>
+                <div class="stat border">
+                    <div class="value"><img src="./img/instagram-sketched (1).png"></div>
+                    <div class="type"><a href="https://www.instagram.com/joincoded/" class="text-white">الانستقرام</a>
+                    </div>
+                </div>
+                <div class="stat">
+                    <div class="value"><img src="./img/twitter.png" width="23px"></div>
+                    <div class="type"><a href="https://www.instagram.com/kw.university/" class="text-white">تويتر</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card4">
+            <div class="card4-image"></div>
+            <div class="card4-text">
+                <span class="date">الداعم الاستراتيجي</span>
+                <h2>جامعة الكويت</h2>
+                <p> تـأسـسـت جامعة الكويت في عام 1966 م ، في عهد الشيخ عبدالله السالم الصباح (رحمه الله )
+                    <br>
+                    تدعم جامعة الكويت جهودنا في التطوير و الابتكار في حل المشاكل </p>
+            </div>
+            <div class="card4-stats">
+                <div class="stat">
+                    <div class="value"><img src="./img/site.png" width="23px"></div>
+                    <div class="type"><a href="https://portal.ku.edu.kw/index.html" class="text-dark">زر الموقع
+                            الالكتروني</a>
+                    </div>
+                </div>
+                <div class="stat border">
+                    <div class="value"><img src="./img/instagram-sketched (1).png"></div>
+                    <div class="type"><a href="https://www.instagram.com/joincoded/" class="text-dark">الانستقرام</a>
+                    </div>
+                </div>
+                <div class="stat">
+                    <div class="value"><img src="./img/twitter.png" width="23px"></div>
+                    <div class="type"><a href="https://www.instagram.com/kw.university/" class="text-dark">تويتر</a>
+                    </div>
+                </div>
+            </div>
+        </div>
